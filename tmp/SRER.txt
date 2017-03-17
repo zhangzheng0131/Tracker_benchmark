@@ -1,0 +1,102 @@
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+14_RPT, 50_tiger1: 1/20
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+error
+14_RPT, 50_tiger1: 2/20
+error
+14_RPT, 50_tiger1: 3/20
+error
+14_RPT, 50_tiger1: 4/20
+error
+14_RPT, 50_tiger1: 5/20
+error
+14_RPT, 50_tiger1: 6/20
+error
+14_RPT, 50_tiger1: 7/20
+error
+14_RPT, 50_tiger1: 8/20
+error
+14_RPT, 50_tiger1: 9/20
+error
+14_RPT, 50_tiger1: 10/20
+error
+14_RPT, 50_tiger1: 11/20
+error
+14_RPT, 50_tiger1: 12/20
+error
+14_RPT, 50_tiger1: 13/20
+error
+14_RPT, 50_tiger1: 14/20
+error
+14_RPT, 50_tiger1: 15/20
+error
+14_RPT, 50_tiger1: 16/20
+error
+14_RPT, 50_tiger1: 17/20
+error
+14_RPT, 50_tiger1: 18/20
+error
+14_RPT, 50_tiger1: 19/20
+error
+14_RPT, 50_tiger1: 20/20
+error
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('save')" style="font-weight:bold">save</a>
+由于 '.\results\pami15_SRER' 不存在，无法创建 'pami15_SRERtiger1_RPT.mat'。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_running', 'F:\Workplace\matlab\RPT\tracker_benchmark_v1.0\main_running.m', 185)" style="font-weight:bold">main_running</a> (<a href="matlab: opentoline('F:\Workplace\matlab\RPT\tracker_benchmark_v1.0\main_running.m',185,0)">line 185</a>)
+        save([finalPath s.name '_' t.name '.mat'], 'results');
+} 
+gaussian_mix
+{输入参数的数目不足。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('gaussian_mix', 'F:\Workplace\matlab\ECO\GMM\761486201GMM\gaussian_mix.m', 3)" style="font-weight:bold">gaussian_mix</a> (<a href="matlab: opentoline('F:\Workplace\matlab\ECO\GMM\761486201GMM\gaussian_mix.m',3,0)">line 3</a>)
+for i = 1:K
+} 
+main_running
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+14_RPT, 50_tiger1: 1/20
+<a href="matlab: opentoline('F:\Workplace\matlab\RPT\tracker_benchmark_v1.0\trackers\RPT\vl_simplenn.m',381,1)">381 </a>  needsBProp = doder && i >= backPropLim;

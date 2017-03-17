@@ -1,0 +1,1815 @@
+1
+SBT
+BSBT
+Frag
+KMS
+SMS
+LSK
+VTS
+VTD
+CXT
+{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('getframe', 'D:\Program Files\MATLAB\R2012b_32bit\toolbox\matlab\specgraph\getframe.m', 103)" style="font-weight:bold">getframe</a> (<a href="matlab: opentoline('D:\Program Files\MATLAB\R2012b_32bit\toolbox\matlab\specgraph\getframe.m',103,0)">line 103</a>)
+
+
+In <a href="matlab:helpUtils.errorDocCallback('drawResultBB', 'D:\Dropbox\TrkEval_Lim\code_release_v1.0\drawResultBB.m', 118)" style="font-weight:bold">drawResultBB</a> (<a href="matlab: opentoline('D:\Dropbox\TrkEval_Lim\code_release_v1.0\drawResultBB.m',118,0)">line 118</a>)
+        imwrite(frame2im(getframe(gcf)), [pathSave  num2str(i) '.png']);
+} 
+1479/29
+
+ans =
+
+    51
+
+20*51
+
+ans =
+
+        1020
+
+VTS
+VTD
+CXT
+VR
+TM
+RS
+PD
+MS
+CT
+TLD
+IVT
+DFT
+ASLA
+L1APG
+ORIA
+MTT
+CSK
+SCM
+LOT
+CPF
+Struck
+MIL
+OAB
+SBT
+BSBT
+Frag
+KMS
+SMS
+LSK
+VTS
+VTD
+CXT
+VR
+TM
+RS
+PD
+MS
+CT
+TLD
+IVT
+DFT
+ASLA
+L1APG
+ORIA
+MTT
+CSK
+SCM
+LOT
+CPF
+Struck
+MIL
+OAB
+SBT
+BSBT
+Frag
+KMS
+SMS
+LSK
+VTS
+VTD
+CXT
+VR
+TM
+RS
+PD
+MS
+CT
+TLD
+IVT
+DFT
+ASLA
+L1APG
+ORIA
+MTT
+CSK
+SCM
+LOT
+CPF
+Struck
+MIL
+OAB
+SBT
+BSBT
+Frag
+KMS
+SMS
+LSK
+VTS
+VTD
+CXT
+VR
+TM
+RS
+PD
+MS
+CT
+TLD
+IVT
+DFT
+ASLA
+L1APG
+ORIA
+MTT
+CSK
+SCM
+LOT
+CPF
+Struck
+MIL
+OAB
+SBT
+BSBT
+Frag
+KMS
+SMS
+LSK
+VTS
+VTD
+CXT
+VR
+TM
+RS
+PD
+MS
+CT
+TLD
+IVT
+DFT
+ASLA
+L1APG
+ORIA
+MTT
+CSK
+SCM
+LOT
+CPF
+Struck
+MIL
+OAB
+SBT
+BSBT
+Frag
+KMS
+SMS
+LSK
+VTS
+VTD
+CXT
+VR
+TM
+RS
+PD
+MS
+CT
+TLD
+IVT
+DFT
+ASLA
+L1APG
+ORIA
+MTT
+CSK
+SCM
+LOT
+CPF
+Struck
+MIL
+OAB
+SBT
+BSBT
+Frag
+KMS
+SMS
+LSK
+VTS
+VTD
+CXT
+VR
+TM
+RS
+PD
+MS
+CT
+TLD
+IVT
+DFT
+ASLA
+L1APG
+ORIA
+MTT
+CSK
+SCM
+LOT
+CPF
+Struck
+MIL
+OAB
+SBT
+BSBT
+Frag
+KMS
+SMS
+LSK
+VTS
+VTD
+CXT
+VR
+TM
+RS
+PD
+MS
+CT
+TLD
+IVT
+DFT
+ASLA
+L1APG
+ORIA
+MTT
+CSK
+SCM
+LOT
+CPF
+Struck
+MIL
+OAB
+SBT
+BSBT
+Frag
+KMS
+SMS
+LSK
+VTS
+VTD
+CXT
+VR
+TM
+RS
+PD
+MS
+CT
+TLD
+IVT
+DFT
+ASLA
+L1APG
+ORIA
+MTT
+CSK
+SCM
+LOT
+CPF
+Struck
+MIL
+OAB
+SBT
+BSBT
+Frag
+KMS
+SMS
+LSK
+VTS
+VTD
+CXT
+VR
+TM
+RS
+PD
+MS
+CT
+TLD
+IVT
+DFT
+ASLA
+L1APG
+ORIA
+MTT
+CSK
+SCM
+LOT
+CPF
+Struck
+MIL
+OAB
+SBT
+BSBT
+Frag
+KMS
+SMS
+LSK
+VTS
+VTD
+CXT
+VR
+TM
+RS
+PD
+MS
+CT
+TLD
+IVT
+DFT
+ASLA
+L1APG
+ORIA
+MTT
+CSK
+SCM
+LOT
+CPF
+Struck
+MIL
+OAB
+SBT
+BSBT
+Frag
+KMS
+SMS
+LSK
+VTS
+VTD
+CXT
+VR
+TM
+RS
+PD
+MS
+CT
+TLD
+IVT
+DFT
+ASLA
+L1APG
+ORIA
+MTT
+CSK
+SCM
+LOT
+CPF
+Struck
+MIL
+OAB
+SBT
+BSBT
+Frag
+KMS
+SMS
+LSK
+VTS
+VTD
+CXT
+VR
+TM
+RS
+PD
+MS
+CT
+TLD
+IVT
+DFT
+ASLA
+L1APG
+ORIA
+MTT
+CSK
+SCM
+LOT
+CPF
+Struck
+MIL
+OAB
+SBT
+BSBT
+Frag
+KMS
+SMS
+LSK
+VTS
+VTD
+CXT
+VR
+TM
+RS
+PD
+MS
+CT
+TLD
+IVT
+DFT
+ASLA
+L1APG
+ORIA
+MTT
+CSK
+SCM
+LOT
+CPF
+Struck
+MIL
+OAB
+SBT
+BSBT
+Frag
+KMS
+SMS
+LSK
+VTS
+VTD
+CXT
+VR
+TM
+RS
+PD
+MS
+CT
+TLD
+IVT
+DFT
+ASLA
+L1APG
+ORIA
+MTT
+CSK
+SCM
+LOT
+CPF
+Struck
+MIL
+OAB
+SBT
+BSBT
+Frag
+KMS
+SMS
+LSK
+VTS
+VTD
+CXT
+{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('getframe', 'D:\Program Files\MATLAB\R2012b_32bit\toolbox\matlab\specgraph\getframe.m', 103)" style="font-weight:bold">getframe</a> (<a href="matlab: opentoline('D:\Program Files\MATLAB\R2012b_32bit\toolbox\matlab\specgraph\getframe.m',103,0)">line 103</a>)
+
+
+In <a href="matlab:helpUtils.errorDocCallback('drawResultBB', 'D:\Dropbox\TrkEval_Lim\code_release_v1.0\drawResultBB.m', 215)" style="font-weight:bold">drawResultBB</a> (<a href="matlab: opentoline('D:\Dropbox\TrkEval_Lim\code_release_v1.0\drawResultBB.m',215,0)">line 215</a>)
+        imwrite(frame2im(getframe(gcf)), [pathSave  num2str(i) '.png']);
+} 
+clc
+clear
+load('D:\Dropbox\TrkEval_Lim\code_release_v1.0\trackers\IVT\pca_comparison\sylvester_windows.mat')
+perfPlot
+{Undefined function or variable 'configSeqs'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('perfPlot', 'D:\Dropbox\TrkEval_Lim\code_release_v1.0\perfPlot.m', 58)" style="font-weight:bold">perfPlot</a> (<a href="matlab: opentoline('D:\Dropbox\TrkEval_Lim\code_release_v1.0\perfPlot.m',58,0)">line 58</a>)
+seqs=configSeqs;
+} 
+perfPlot
+perfPlot
+if system_dependent('IsDebugMode')==1, dbquit; end
+drawResultBB
+VR
+TM
+RS
+PD
+MS
+CT
+TLD
+IVT
+DFT
+ASLA
+L1APG
+ORIA
+MTT
+CSK
+SCM
+LOT
+CPF
+Struck
+MIL
+OAB
+SBT
+BSBT
+Frag
+KMS
+SMS
+LSK
+VTS
+VTD
+CXT
+if system_dependent('IsDebugMode')==1, dbquit; end
+genPerfMat
+{Error using <a href="matlab:helpUtils.errorDocCallback('genPerfMat', 'D:\Dropbox\TrkEval_Lim\code_release_v1.0\genPerfMat.m', 4)" style="font-weight:bold">genPerfMat</a> (<a href="matlab: opentoline('D:\Dropbox\TrkEval_Lim\code_release_v1.0\genPerfMat.m',4,0)">line 4</a>)
+Not enough input arguments.
+} 
+perfPlot
+if system_dependent('IsDebugMode')==1, dbstep in; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+carDark VR
+carDark TM
+carDark RS
+carDark PD
+carDark MS
+carDark CT
+carDark TLD
+carDark IVT
+carDark DFT
+carDark ASLA
+carDark L1APG
+carDark ORIA
+carDark MTT
+carDark CSK
+carDark SCM
+carDark LOT
+carDark CPF
+carDark Struck
+carDark MIL
+carDark OAB
+carDark SBT
+carDark BSBT
+carDark Frag
+carDark KMS
+carDark SMS
+carDark LSK
+carDark VTS
+carDark VTD
+carDark CXT
+car4 VR
+car4 TM
+car4 RS
+car4 PD
+car4 MS
+car4 CT
+car4 TLD
+car4 IVT
+car4 DFT
+car4 ASLA
+car4 L1APG
+car4 ORIA
+car4 MTT
+car4 CSK
+car4 SCM
+car4 LOT
+car4 CPF
+car4 Struck
+car4 MIL
+car4 OAB
+car4 SBT
+car4 BSBT
+car4 Frag
+car4 KMS
+car4 SMS
+car4 LSK
+car4 VTS
+car4 VTD
+car4 CXT
+david VR
+david TM
+david RS
+david PD
+david MS
+david CT
+david TLD
+david IVT
+david DFT
+david ASLA
+david L1APG
+david ORIA
+david MTT
+david CSK
+david SCM
+david LOT
+david CPF
+david Struck
+david MIL
+david OAB
+david SBT
+david BSBT
+david Frag
+david KMS
+david SMS
+david LSK
+david VTS
+david VTD
+david CXT
+david2 VR
+david2 TM
+david2 RS
+david2 PD
+david2 MS
+david2 CT
+david2 TLD
+david2 IVT
+david2 DFT
+david2 ASLA
+david2 L1APG
+david2 ORIA
+david2 MTT
+david2 CSK
+david2 SCM
+david2 LOT
+david2 CPF
+david2 Struck
+david2 MIL
+david2 OAB
+david2 SBT
+david2 BSBT
+david2 Frag
+david2 KMS
+david2 SMS
+david2 LSK
+david2 VTS
+david2 VTD
+david2 CXT
+sylvester VR
+sylvester TM
+sylvester RS
+sylvester PD
+sylvester MS
+sylvester CT
+sylvester TLD
+sylvester IVT
+sylvester DFT
+sylvester ASLA
+sylvester L1APG
+sylvester ORIA
+sylvester MTT
+sylvester CSK
+sylvester SCM
+sylvester LOT
+sylvester CPF
+sylvester Struck
+sylvester MIL
+sylvester OAB
+sylvester SBT
+sylvester BSBT
+sylvester Frag
+sylvester KMS
+sylvester SMS
+sylvester LSK
+sylvester VTS
+sylvester VTD
+sylvester CXT
+trellis VR
+trellis TM
+trellis RS
+trellis PD
+trellis MS
+trellis CT
+trellis TLD
+trellis IVT
+trellis DFT
+trellis ASLA
+trellis L1APG
+trellis ORIA
+trellis MTT
+trellis CSK
+trellis SCM
+trellis LOT
+trellis CPF
+trellis Struck
+trellis MIL
+trellis OAB
+trellis SBT
+trellis BSBT
+trellis Frag
+trellis KMS
+trellis SMS
+trellis LSK
+trellis VTS
+trellis VTD
+trellis CXT
+fish VR
+fish TM
+fish RS
+fish PD
+fish MS
+fish CT
+fish TLD
+fish IVT
+fish DFT
+fish ASLA
+fish L1APG
+fish ORIA
+fish MTT
+fish CSK
+fish SCM
+fish LOT
+fish CPF
+fish Struck
+fish MIL
+fish OAB
+fish SBT
+fish BSBT
+fish Frag
+fish KMS
+fish SMS
+fish LSK
+fish VTS
+fish VTD
+fish CXT
+mhyang VR
+mhyang TM
+mhyang RS
+mhyang PD
+mhyang MS
+mhyang CT
+mhyang TLD
+mhyang IVT
+mhyang DFT
+mhyang ASLA
+mhyang L1APG
+mhyang ORIA
+mhyang MTT
+mhyang CSK
+mhyang SCM
+mhyang LOT
+mhyang CPF
+mhyang Struck
+mhyang MIL
+mhyang OAB
+mhyang SBT
+mhyang BSBT
+mhyang Frag
+mhyang KMS
+mhyang SMS
+mhyang LSK
+mhyang VTS
+mhyang VTD
+{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('calcSeqErrRobust', 'D:\Dropbox\TrkEval_Lim\code_release_v1.0\util\calcSeqErrRobust.m', 18)" style="font-weight:bold">calcSeqErrRobust</a> (<a href="matlab: opentoline('D:\Dropbox\TrkEval_Lim\code_release_v1.0\util\calcSeqErrRobust.m',18,0)">line 18</a>)
+
+
+In <a href="matlab:helpUtils.errorDocCallback('genPerfMat', 'D:\Dropbox\TrkEval_Lim\code_release_v1.0\genPerfMat.m', 83)" style="font-weight:bold">genPerfMat</a> (<a href="matlab: opentoline('D:\Dropbox\TrkEval_Lim\code_release_v1.0\genPerfMat.m',83,0)">line 83</a>)
+            [aveCoverage, aveErrCenter, errCoverage, errCenter] = calcSeqErrRobust(res, anno);
+
+In <a href="matlab:helpUtils.errorDocCallback('perfPlot', 'D:\Dropbox\TrkEval_Lim\code_release_v1.0\perfPlot.m', 158)" style="font-weight:bold">perfPlot</a> (<a href="matlab: opentoline('D:\Dropbox\TrkEval_Lim\code_release_v1.0\perfPlot.m',158,0)">line 158</a>)
+            genPerfMat(seqs, trackers, evalType, nameTrkAll, perfMatPath);
+} 
+main_running
+if system_dependent('IsDebugMode')==1, dbcont; end
+7/2 16:43:44
+main_running
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('imread', 'E:\Software\MATLAB\r2016a\toolbox\matlab\imagesci\imread.p', 349)" style="font-weight:bold">imread</a> (<a href="matlab: opentoline('E:\Software\MATLAB\r2016a\toolbox\matlab\imagesci\imread.p',349,0)">line 349</a>)
+文件 "d:\data_seq\carDark_c\0001.jpg" 不存在。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_running', 'F:\Workplace\matlab\RPT\tracker_benchmark_v1.0\main_running.m', 59)" style="font-weight:bold">main_running</a> (<a href="matlab: opentoline('F:\Workplace\matlab\RPT\tracker_benchmark_v1.0\main_running.m',59,0)">line 59</a>)
+    img = imread(s.s_frames{1});
+} 
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('imread', 'E:\Software\MATLAB\r2016a\toolbox\matlab\imagesci\imread.p', 349)" style="font-weight:bold">imread</a> (<a href="matlab: opentoline('E:\Software\MATLAB\r2016a\toolbox\matlab\imagesci\imread.p',349,0)">line 349</a>)
+文件 "d:\data_seq\carDark_c\0001.jpg" 不存在。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_running', 'F:\Workplace\matlab\RPT\tracker_benchmark_v1.0\main_running.m', 59)" style="font-weight:bold">main_running</a> (<a href="matlab: opentoline('F:\Workplace\matlab\RPT\tracker_benchmark_v1.0\main_running.m',59,0)">line 59</a>)
+    img = imread(s.s_frames{1});
+} 
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('imread', 'E:\Software\MATLAB\r2016a\toolbox\matlab\imagesci\imread.p', 349)" style="font-weight:bold">imread</a> (<a href="matlab: opentoline('E:\Software\MATLAB\r2016a\toolbox\matlab\imagesci\imread.p',349,0)">line 349</a>)
+文件 "d:\data_seq\carDark_c\0001.jpg" 不存在。
+} 
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('imread', 'E:\Software\MATLAB\r2016a\toolbox\matlab\imagesci\imread.p', 349)" style="font-weight:bold">imread</a> (<a href="matlab: opentoline('E:\Software\MATLAB\r2016a\toolbox\matlab\imagesci\imread.p',349,0)">line 349</a>)
+文件 "d:\data_seq\carDark_c\0001.jpg" 不存在。
+} 
+main_running
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('imread', 'E:\Software\MATLAB\r2016a\toolbox\matlab\imagesci\imread.p', 349)" style="font-weight:bold">imread</a> (<a href="matlab: opentoline('E:\Software\MATLAB\r2016a\toolbox\matlab\imagesci\imread.p',349,0)">line 349</a>)
+文件 "d:\data_seq\carDark_c\0001.jpg" 不存在。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_running', 'F:\Workplace\matlab\RPT\tracker_benchmark_v1.0\main_running.m', 59)" style="font-weight:bold">main_running</a> (<a href="matlab: opentoline('F:\Workplace\matlab\RPT\tracker_benchmark_v1.0\main_running.m',59,0)">line 59</a>)
+    img = imread(s.s_frames{1});
+} 
+main_running
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('imread', 'E:\Software\MATLAB\r2016a\toolbox\matlab\imagesci\imread.p', 349)" style="font-weight:bold">imread</a> (<a href="matlab: opentoline('E:\Software\MATLAB\r2016a\toolbox\matlab\imagesci\imread.p',349,0)">line 349</a>)
+文件 "d:\data_seq\carDark_c\0001.jpg" 不存在。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_running', 'F:\Workplace\matlab\RPT\tracker_benchmark_v1.0\main_running.m', 59)" style="font-weight:bold">main_running</a> (<a href="matlab: opentoline('F:\Workplace\matlab\RPT\tracker_benchmark_v1.0\main_running.m',59,0)">line 59</a>)
+    img = imread(s.s_frames{1});
+} 
+main_running
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbquit; end
+main_running
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbquit; end
+main_running
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbquit; end
+main_running
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('imread', 'E:\Software\MATLAB\r2016a\toolbox\matlab\imagesci\imread.p', 349)" style="font-weight:bold">imread</a> (<a href="matlab: opentoline('E:\Software\MATLAB\r2016a\toolbox\matlab\imagesci\imread.p',349,0)">line 349</a>)
+文件 "F:\Workplace\matlab\RPT\benchmark2013\carDark_c\0001.jpg" 不存在。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_running', 'F:\Workplace\matlab\RPT\tracker_benchmark_v1.0\main_running.m', 59)" style="font-weight:bold">main_running</a> (<a href="matlab: opentoline('F:\Workplace\matlab\RPT\tracker_benchmark_v1.0\main_running.m',59,0)">line 59</a>)
+    img = imread(s.s_frames{1});
+} 
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('imread', 'E:\Software\MATLAB\r2016a\toolbox\matlab\imagesci\imread.p', 349)" style="font-weight:bold">imread</a> (<a href="matlab: opentoline('E:\Software\MATLAB\r2016a\toolbox\matlab\imagesci\imread.p',349,0)">line 349</a>)
+文件 "F:\Workplace\matlab\RPT\benchmark2013\carDark_c\0001.jpg" 不存在。
+} 
+help struct
+ <strong>struct</strong> Create or convert to structure array.
+    S = <strong>struct</strong>('field1',VALUES1,'field2',VALUES2,...) creates a
+    structure array with the specified fields and values.  The value
+    arrays VALUES1, VALUES2, etc. must be cell arrays of the same
+    size, scalar cells or single values.  Corresponding elements of the
+    value arrays are placed into corresponding structure array elements.
+    The size of the resulting structure is the same size as the value
+    cell arrays or 1-by-1 if none of the values is a cell.
+ 
+    <strong>struct</strong>(OBJ) converts the object OBJ into its equivalent
+    structure.  The class information is lost.
+ 
+    <strong>struct</strong>([]) creates an empty structure.
+ 
+    To create fields that contain cell arrays, place the cell arrays
+    within a VALUE cell array.  For instance,
+      s = struct('strings',{{'hello','yes'}},'lengths',[5 3])
+    creates the 1-by-1 structure
+       s = 
+          strings: {'hello'  'yes'}
+          lengths: [5 3]
+ 
+    Example
+       s = struct('type',{'big','little'},'color','red','x',{3 4})
+ 
+    See also <a href="matlab:help isstruct">isstruct</a>, <a href="matlab:help setfield">setfield</a>, <a href="matlab:help getfield">getfield</a>, <a href="matlab:help fieldnames">fieldnames</a>, <a href="matlab:help orderfields">orderfields</a>, 
+    <a href="matlab:help isfield">isfield</a>, <a href="matlab:help rmfield">rmfield</a>, <a href="matlab:help deal">deal</a>, <a href="matlab:help substruct">substruct</a>, <a href="matlab:help struct2cell">struct2cell</a>, <a href="matlab:help cell2struct">cell2struct</a>.
+
+    <a href="matlab:doc struct">struct 的参考页</a>
+    <a href="matlab:matlab.internal.language.introspective.overloads.displayOverloads('struct')">名为 struct 的其他函数</a>
+
+main_running
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('imread', 'E:\Software\MATLAB\r2016a\toolbox\matlab\imagesci\imread.p', 349)" style="font-weight:bold">imread</a> (<a href="matlab: opentoline('E:\Software\MATLAB\r2016a\toolbox\matlab\imagesci\imread.p',349,0)">line 349</a>)
+文件 "F:\Workplace\matlab\RPT\benchmark2013\CarDark\0001.jpg" 不存在。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_running', 'F:\Workplace\matlab\RPT\tracker_benchmark_v1.0\main_running.m', 59)" style="font-weight:bold">main_running</a> (<a href="matlab: opentoline('F:\Workplace\matlab\RPT\tracker_benchmark_v1.0\main_running.m',59,0)">line 59</a>)
+    img = imread(s.s_frames{1});
+} 
+main_running
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('imread', 'E:\Software\MATLAB\r2016a\toolbox\matlab\imagesci\imread.p', 349)" style="font-weight:bold">imread</a> (<a href="matlab: opentoline('E:\Software\MATLAB\r2016a\toolbox\matlab\imagesci\imread.p',349,0)">line 349</a>)
+文件 "F:\Workplace\matlab\RPT\benchmark2013\CarDark\CarDark\0001.jpg" 不存在。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_running', 'F:\Workplace\matlab\RPT\tracker_benchmark_v1.0\main_running.m', 59)" style="font-weight:bold">main_running</a> (<a href="matlab: opentoline('F:\Workplace\matlab\RPT\tracker_benchmark_v1.0\main_running.m',59,0)">line 59</a>)
+    img = imread(s.s_frames{1});
+} 
+main_running
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+12/5 20:8:34
+main_running
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+12/5 20:10:23
+main_running
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep in; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep out; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+main_running
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+{未定义函数或变量 'OPE'。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_running', 'F:\Workplace\matlab\RPT\tracker_benchmark_v1.0\main_running.m', 68)" style="font-weight:bold">main_running</a> (<a href="matlab: opentoline('F:\Workplace\matlab\RPT\tracker_benchmark_v1.0\main_running.m',68,0)">line 68</a>)
+    evalType=OPE;% by zhangzheng 12/05/16
+} 
+opentoline('F:\Workplace\matlab\RPT\tracker_benchmark_v1.0\main_running.m',68,0)
+main_running
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+{索引超出矩阵维度。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('checkResult', 'F:\Workplace\matlab\RPT\tracker_benchmark_v1.0\util\checkResult.m', 17)" style="font-weight:bold">checkResult</a> (<a href="matlab: opentoline('F:\Workplace\matlab\RPT\tracker_benchmark_v1.0\util\checkResult.m',17,0)">line 17</a>)
+            if size(results{i}.res,1)<size(subAnno{i},1)
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_running', 'F:\Workplace\matlab\RPT\tracker_benchmark_v1.0\main_running.m', 108)" style="font-weight:bold">main_running</a> (<a href="matlab: opentoline('F:\Workplace\matlab\RPT\tracker_benchmark_v1.0\main_running.m',108,0)">line 108</a>)
+            bfail=checkResult(results, subAnno);
+} 
+main_running
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+main_running
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+load([finalPath s.name '_' t.name '.mat'])
+ans=load([finalPath s.name '_' t.name '.mat'])
+
+ans = 
+
+    results: {1x20 cell}
+
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep in; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+load([finalPath s.name '_' t.name '.mat'])
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('load')" style="font-weight:bold">load</a>
+无法读取文件 './results/results_TRE_CVPR13/carDark_RPT.mat'。没有此类文件或目录。
+} 
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+14_RPT, 1_carDark: 1/20
+help display
+ <strong>display</strong> Display array.
+    <strong>display</strong>(X) is called for the object X when the semicolon is not used
+    to terminate a statement. 
+ 
+    For example,
+      X = inline('sin(x)')
+    calls <strong>display</strong>(X) while
+      X = inline('sin(x)');
+    does not.
+ 
+    A typical implementation of <strong>display</strong> calls DISP to do most of the work.
+    To customize the display of objects, overload the DISP function.
+    Note that DISP does not display empty arrays.
+    
+    See also <a href="matlab:help disp">disp</a>, <a href="matlab:help matlab.mixin.CustomDisplay">matlab.mixin.CustomDisplay</a>, <a href="matlab:help evalc">evalc</a>, 
+
+    <a href="matlab:doc display">display 的参考页</a>
+    <a href="matlab:matlab.internal.language.introspective.overloads.displayOverloads('display')">名为 display 的其他函数</a>
+
+help disp
+ <strong>disp</strong> Display array.
+    <strong>disp</strong>(X) displays the array, without printing the array name.  In
+    all other ways it's the same as leaving the semicolon off an
+    expression except that empty arrays don't display.
+ 
+    If X is a string, the text is displayed.
+ 
+    See also <a href="matlab:help int2str">int2str</a>, <a href="matlab:help num2str">num2str</a>, <a href="matlab:help sprintf">sprintf</a>, <a href="matlab:help rats">rats</a>, <a href="matlab:help format">format</a>, <a href="matlab:help details">details</a>.
+
+    <a href="matlab:doc disp">disp 的参考页</a>
+    <a href="matlab:matlab.internal.language.introspective.overloads.displayOverloads('disp')">名为 disp 的其他函数</a>
+
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep in; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+help genpath
+ <strong>genpath</strong> Generate recursive toolbox path.
+    P = <strong>genpath</strong> returns a new path string by adding all the subdirectories 
+    of MATLABROOT/toolbox, including empty subdirectories. 
+ 
+    P = <strong>genpath</strong>(D) returns a path string starting in D, plus, recursively, 
+    all the subdirectories of D, including empty subdirectories.
+    
+    NOTE 1: <strong>genpath</strong> will not exactly recreate the original MATLAB path.
+ 
+    NOTE 2: <strong>genpath</strong> only includes subdirectories allowed on the MATLAB
+    path.
+ 
+    See also <a href="matlab:help path">path</a>, <a href="matlab:help addpath">addpath</a>, <a href="matlab:help rmpath">rmpath</a>, <a href="matlab:help savepath">savepath</a>.
+
+    <a href="matlab:doc genpath">genpath 的参考页</a>
+
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep in; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+error
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+14_RPT, 1_carDark: 2/20
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+error
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+14_RPT, 1_carDark: 3/20
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbquit; end
+main_running
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+14_RPT, 1_carDark: 1/20
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep in; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+help eval
+ <strong>eval</strong> Execute string with MATLAB expression.
+    <strong>eval</strong>(EXPRESSION) evaluates the MATLAB code in the string EXPRESSION.
+ 
+    [OUTPUT1,...,OUTPUTN] = <strong>eval</strong>(EXPRESSION) returns output from EXPRESSION
+    in the specified variables.
+ 
+    Example: Interactively request the name of a matrix to plot.
+ 
+       expression = input('Enter the name of a matrix: ','s');
+       if (exist(expression,'var'))
+          plot(eval(expression))
+       end
+ 
+    See also <a href="matlab:help feval">feval</a>, <a href="matlab:help evalin">evalin</a>, <a href="matlab:help assignin">assignin</a>, <a href="matlab:help evalc">evalc</a>.
+
+    <a href="matlab:doc eval">eval 的参考页</a>
+    <a href="matlab:matlab.internal.language.introspective.overloads.displayOverloads('eval')">名为 eval 的其他函数</a>
+
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+ FPS: 9.03
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+help rmpath
+ <strong>rmpath</strong> Remove directory from search path.
+    <strong>rmpath</strong> DIRNAME  removes the specified directory from the current
+    matlabpath.  Surround the DIRNAME in quotes if the name contains a
+    space.  If DIRNAME is a set of multiple directories separated by path
+    separators, then each of the specified directories will be removed.
+ 
+    <strong>rmpath</strong> DIR1 DIR2 DIR3  removes all the specified directories from the
+    path.
+ 
+    Use the functional form of <strong>rmpath</strong>, such as <strong>rmpath</strong>('dir1','dir2',...),
+    when the directory specification is stored in a string.
+ 
+    P = <strong>rmpath</strong>(...) returns the path prior to removing the specified paths.
+ 
+    Examples
+        rmpath c:\matlab\work
+        rmpath /home/user/matlab
+        rmpath /home/user/matlab:/home/user/matlab/test:
+        rmpath /home/user/matlab /home/user/matlab/test
+ 
+    See also <a href="matlab:help addpath">addpath</a>, <a href="matlab:help pathtool">pathtool</a>, <a href="matlab:help path">path</a>, <a href="matlab:help savepath">savepath</a>, <a href="matlab:help userpath">userpath</a>, <a href="matlab:help genpath">genpath</a>, <a href="matlab:help rehash">rehash</a>.
+
+    <a href="matlab:doc rmpath">rmpath 的参考页</a>
+
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+14_RPT, 1_carDark: 2/20
+if system_dependent('IsDebugMode')==1, dbcont; end
+ FPS: 9.44
+14_RPT, 1_carDark: 3/20
+if system_dependent('IsDebugMode')==1, dbcont; end
+ FPS: 8.87
+14_RPT, 1_carDark: 4/20
+if system_dependent('IsDebugMode')==1, dbcont; end
+ FPS: 10.29
+14_RPT, 1_carDark: 5/20
+ FPS: 10.31
+14_RPT, 1_carDark: 6/20
+ FPS: 10.33
+14_RPT, 1_carDark: 7/20
+ FPS: 10.32
+14_RPT, 1_carDark: 8/20
+ FPS: 11.20
+14_RPT, 1_carDark: 9/20
+ FPS: 9.43
+14_RPT, 1_carDark: 10/20
+ FPS: 10.29
+14_RPT, 1_carDark: 11/20
+ FPS: 10.42
+14_RPT, 1_carDark: 12/20
+ FPS: 10.12
+14_RPT, 1_carDark: 13/20
+ FPS: 10.23
+14_RPT, 1_carDark: 14/20
+ FPS: 10.31
+14_RPT, 1_carDark: 15/20
+ FPS: 9.19
+14_RPT, 1_carDark: 16/20
+ FPS: 9.39
+14_RPT, 1_carDark: 17/20
+ FPS: 9.33
+14_RPT, 1_carDark: 18/20
+ FPS: 9.32
+14_RPT, 1_carDark: 19/20
+ FPS: 9.59
+14_RPT, 1_carDark: 20/20
+ FPS: 10.61
+14_RPT, 2_car4: 1/20
+ FPS: 1.87
+14_RPT, 2_car4: 2/20
+ FPS: 1.73
+14_RPT, 2_car4: 3/20
+ FPS: 2.05
+14_RPT, 2_car4: 4/20
+ FPS: 2.75
+14_RPT, 2_car4: 5/20
+ FPS: 2.70
+14_RPT, 2_car4: 6/20
+ FPS: 3.57
+14_RPT, 2_car4: 7/20
+ FPS: 3.87
+14_RPT, 2_car4: 8/20
+ FPS: 4.61
+14_RPT, 2_car4: 9/20
+ FPS: 4.31
+14_RPT, 2_car4: 10/20
+ FPS: 5.35
+14_RPT, 2_car4: 11/20
+ FPS: 5.28
+14_RPT, 2_car4: 12/20
+ FPS: 4.54
+14_RPT, 2_car4: 13/20
+ FPS: 4.81
+14_RPT, 2_car4: 14/20
+ FPS: 3.51
+14_RPT, 2_car4: 15/20
+ FPS: 4.19
+14_RPT, 2_car4: 16/20
+ FPS: 3.90
+14_RPT, 2_car4: 17/20
+ FPS: 4.04
+14_RPT, 2_car4: 18/20
+ FPS: 2.88
+14_RPT, 2_car4: 19/20
+ FPS: 2.57
+14_RPT, 2_car4: 20/20
+ FPS: 2.32
+14_RPT, 3_david: 1/20
+ FPS: 3.72
+14_RPT, 3_david: 2/20
+ FPS: 4.00
+14_RPT, 3_david: 3/20
+ FPS: 3.53
+14_RPT, 3_david: 4/20
+ FPS: 3.93
+14_RPT, 3_david: 5/20
+ FPS: 3.60
+14_RPT, 3_david: 6/20
+ FPS: 4.94
+14_RPT, 3_david: 7/20
+ FPS: 4.94
+14_RPT, 3_david: 8/20
+ FPS: 7.58
+14_RPT, 3_david: 9/20
+ FPS: 6.19
+14_RPT, 3_david: 10/20
+ FPS: 4.81
+14_RPT, 3_david: 11/20
+ FPS: 4.20
+14_RPT, 3_david: 12/20
+ FPS: 4.82
+14_RPT, 3_david: 13/20
+ FPS: 4.68
+14_RPT, 3_david: 14/20
+ FPS: 5.45
+14_RPT, 3_david: 15/20
+ FPS: 5.39
+14_RPT, 3_david: 16/20
+ FPS: 5.38
+14_RPT, 3_david: 17/20
+ FPS: 5.92
+14_RPT, 3_david: 18/20
+ FPS: 4.87
+14_RPT, 3_david: 19/20
+ FPS: 5.42
+14_RPT, 3_david: 20/20
+ FPS: 5.63
+14_RPT, 4_david2: 1/20
+ FPS: 8.81
+14_RPT, 4_david2: 2/20
+ FPS: 8.97
+14_RPT, 4_david2: 3/20
+ FPS: 8.82
+14_RPT, 4_david2: 4/20
+ FPS: 9.00
+14_RPT, 4_david2: 5/20
+ FPS: 9.17
+14_RPT, 4_david2: 6/20
+ FPS: 9.02
+14_RPT, 4_david2: 7/20
+ FPS: 8.65
+14_RPT, 4_david2: 8/20
+ FPS: 8.57
+14_RPT, 4_david2: 9/20
+ FPS: 8.56
+14_RPT, 4_david2: 10/20
+ FPS: 9.23
+14_RPT, 4_david2: 11/20
+ FPS: 9.20
+14_RPT, 4_david2: 12/20
+ FPS: 8.94
+14_RPT, 4_david2: 13/20
+ FPS: 9.00
+14_RPT, 4_david2: 14/20
+ FPS: 9.15
+14_RPT, 4_david2: 15/20
+ FPS: 8.82
+14_RPT, 4_david2: 16/20
+ FPS: 8.70
+14_RPT, 4_david2: 17/20
+ FPS: 9.13
+14_RPT, 4_david2: 18/20
+ FPS: 9.43
+14_RPT, 4_david2: 19/20
+ FPS: 8.44
+14_RPT, 4_david2: 20/20
+ FPS: 9.82
+14_RPT, 5_sylvester: 1/20
+ FPS: 4.76
+14_RPT, 5_sylvester: 2/20
+ FPS: 5.37
+14_RPT, 5_sylvester: 3/20
+ FPS: 4.54
+14_RPT, 5_sylvester: 4/20
+ FPS: 5.85
+14_RPT, 5_sylvester: 5/20
+if system_dependent('IsDebugMode')==1, dbquit; end
+main_running
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+{索引超出矩阵维度。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('checkResult', 'F:\Workplace\matlab\RPT\tracker_benchmark_v1.0\util\checkResult.m', 17)" style="font-weight:bold">checkResult</a> (<a href="matlab: opentoline('F:\Workplace\matlab\RPT\tracker_benchmark_v1.0\util\checkResult.m',17,0)">line 17</a>)
+            if size(results{i}.res,1)<size(subAnno{i},1)
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_running', 'F:\Workplace\matlab\RPT\tracker_benchmark_v1.0\main_running.m', 108)" style="font-weight:bold">main_running</a> (<a href="matlab: opentoline('F:\Workplace\matlab\RPT\tracker_benchmark_v1.0\main_running.m',108,0)">line 108</a>)
+            bfail=checkResult(results, subAnno);
+} 
+opentoline('F:\Workplace\matlab\RPT\tracker_benchmark_v1.0\main_running.m',108,0)
+main_running
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+ANS1=load([finalPath s.name '_' t.name '.mat'])
+
+ANS1 = 
+
+    results: {1x20 cell}
+
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+{索引超出矩阵维度。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('checkResult', 'F:\Workplace\matlab\RPT\tracker_benchmark_v1.0\util\checkResult.m', 17)" style="font-weight:bold">checkResult</a> (<a href="matlab: opentoline('F:\Workplace\matlab\RPT\tracker_benchmark_v1.0\util\checkResult.m',17,0)">line 17</a>)
+            if size(results{i}.res,1)<size(subAnno{i},1)
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_running', 'F:\Workplace\matlab\RPT\tracker_benchmark_v1.0\main_running.m', 108)" style="font-weight:bold">main_running</a> (<a href="matlab: opentoline('F:\Workplace\matlab\RPT\tracker_benchmark_v1.0\main_running.m',108,0)">line 108</a>)
+            bfail=checkResult(results, subAnno);
+} 
+main_running
+if system_dependent('IsDebugMode')==1, dbcont; end
